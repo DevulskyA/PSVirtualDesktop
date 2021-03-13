@@ -1,0 +1,1 @@
+Add to readm.me  Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
